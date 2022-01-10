@@ -14,6 +14,7 @@
     "lint": "next lint",
     "post-update": "echo \"codesandbox preview only, need an update\" && yarn upgrade --latest",
     "-----------------------": "--------------------------------",
+    "serve:functions": "firebase emulators:start --only functions",
     "dev:client": "set NEXT_PUBLIC_MODE=LOCAL_DEVELOP&& next",
     "dev:client::auth-prod": "set NEXT_PUBLIC_MODE=LOCAL_DEVELOP&& set NEXT_PUBLIC_MODE_AUTH=PROD&& next",
     "dev-port": "next -p 3001",
