@@ -1,0 +1,9 @@
+Firebaseの拡張機能から「Run Payments with Stripe」をインストール
+プロジェクトを選択
+そのまま進め続ける
+４．拡張機能を構成はSyncのところだけSyncに変えた！
+Stripe API Keyを設定
+-> sk_test_51KAyb7LbGgTfORrciV52Q36SxHCSkzfnA3tqXIPLw0tczQmE6V9juWuLtaRR2ShEHomrAqnqXng4XQAukqubfBSz00XtiLMvef
+Webhookは何もしない
+
+
